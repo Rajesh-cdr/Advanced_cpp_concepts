@@ -1,0 +1,1 @@
+int inc_multi(int ,int);
