@@ -2,7 +2,7 @@
 void call_by_vlaue(int age)
 {
     ++age;
-    std::cout<<"Age inside value: "<<age<<std::endl;
+    std::cout<<"inside value of age: "<<age<<std::endl;
 }
 
 int main()
